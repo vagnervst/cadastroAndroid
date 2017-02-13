@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="title_activity_usuario">UsuarioActivity</string>
+    <string name="serverAddr">http://10.107.144.3/androidapi/api.php</string>
+</resources>

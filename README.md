@@ -1,2 +1,2 @@
 # Aplicação android
-**WRYYYYY**
+*App de cadastro e login de usuários*
